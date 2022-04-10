@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HellThrall2000
 - 👀 I’m interested in competitive coding, cybersecurity and android app development
-- 🌱 I’m currently learning about android app development on Flutter-Dart
+- 🌱 I’m currently learning about Cybersecurity and Ethical Hacking
 - 💞️ I’m looking to collaborate on projects that make me learn and apply my knowledge
 - 📫 How to reach me : Contact - padmanava.pal2@gmail.com
 
