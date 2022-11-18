@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HellThrall2000
+- 👋 Hi, I’m Padmanava Pal
 - 👀 I’m interested in competitive coding, cybersecurity and android app development
 - 🌱 I’m currently learning about Cybersecurity and Ethical Hacking
 - 💞️ I’m looking to collaborate on projects that make me learn and apply my knowledge
