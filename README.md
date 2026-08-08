@@ -114,8 +114,6 @@ AI-powered spreadsheet assistant — natural language *and voice* commands to qu
   <img src="https://komarev.com/ghpvc/?username=HellThrall2000&label=Profile+Views&color=8B5CF6&style=for-the-badge" alt="Profile views"/>
 </p>
 
-> If this badge shows broken here, it's almost always the preview context, not your README — it renders through GitHub's own image proxy once the file is live in `HellThrall2000/HellThrall2000` on github.com. If it's still broken *there* after a day, komarev.com may be having a rare outage; ping me and I'll swap in an alternative counter.
-
 <br/>
 
 ## 🧠 Key Skills & Tech Stack
